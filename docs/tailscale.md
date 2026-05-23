@@ -6,7 +6,7 @@
 
 ## Remote
 
-- Создание учетной записи [tailnet](https://remote.routerich.ru/create-tailnet).
+- Создайте учетную запись [tailnet](https://remote.routerich.ru/create-tailnet).
 - Система автоматически создаст уникальное имя сети и ключи (срок действия 1 год):
   - `Device Auth Key` для подключения устройств к сети.
   - `Management Key` для доступа к панели управления.
