@@ -8,6 +8,11 @@
 - [Tailscale](docs/tailscale.md)
 - [VLAN](docs/vlan.md)
 
+## Domains
+
+- [Inside](domains/inside.lst)
+- [Outside](domains/outside.lst)
+
 ## Fixed
 
 - [Package](fixed/package.md)
@@ -24,3 +29,4 @@
 
 - [OpenWRT-Monitoring](https://github.com/Holdesher/OpenWRT-Monitoring)
 - [OpenWRT-Specification](https://openwrt.org)
+- [Allow-Domains](https://github.com/itdoginfo/allow-domains)

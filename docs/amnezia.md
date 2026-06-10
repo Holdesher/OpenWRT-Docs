@@ -50,5 +50,6 @@
 ## Materials
 
 - [Wiki](https://amnezia.org)
-- [Mirror](https://storage.googleapis.com/amnezia/amnezia.org)
+- [Docs](https://storage.googleapis.com/amnezia/amnezia.org)
+- [Panel](https://storage.googleapis.com/amnezia/cp?m-path=/ru)
 - [GitHub](https://github.com/amnezia-vpn)
