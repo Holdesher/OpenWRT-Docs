@@ -12,7 +12,7 @@
 - Полностью выйдите из админки через "Выйти" и войдите снова. Также рекомендуется очистить кэш браузера.
 - Проверьте, что в разделе "Службы" появился "ZeroBlock".
 
-## WG (AmneziaWG)
+## AmneziaWG
 
 ### Interface
 
@@ -125,3 +125,8 @@
   - Перейдите в "Службы" -> "ZeroBlock" -> "Диагностика".
   - Нажмите "Перезапустить ZeroBlock".
   - Дождитесь перезапуска (1-2 минуты).
+
+## Materials
+
+- [GitHub](https://github.com/itdoginfo/zeroblock)
+- [Allow-Domains](https://github.com/itdoginfo/allow-domains)
