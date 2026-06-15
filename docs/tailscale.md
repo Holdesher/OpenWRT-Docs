@@ -1,15 +1,31 @@
 # Tailscale
 
-> [!WARNING]
+> [!NOTE]
 >
 > Дополнительная информация о настройке и устранении проблем есть в документации [remote](https://docs.routerich.ru/ru/remote).
 
-## Remote
+## Auth
 
 - Создайте учетную запись [tailnet](https://remote.routerich.ru/create-tailnet).
 - Система автоматически создаст уникальное имя сети и ключи (срок действия 1 год):
   - `Device Auth Key` для подключения устройств к сети.
   - `Management Key` для доступа к панели управления.
+- Вход в [панель управления](https://remote.routerich.ru).
+
+## Remote
+
+- Скачайте Tailscale и запустите приложение.
+- Откройте терминал и подключитесь к серверу:
+
+```bash
+tailscale up --login-server=https://rc.routerich.ru # Windows
+
+tailscale login --login-server=https://rc.routerich.ru # MacOS
+
+sudo tailscale up --login-server https://rc.routerich.ru # Linux
+```
+
+- Откройте ссылку из терминала в браузере и введите `Device Auth Key`.
 
 ## Setup
 
@@ -56,6 +72,10 @@ tailscale up --reset --force-reauth --accept-routes --advertise-exit-node --adve
 - Перейдите в [Панель управления](https://remote.routerich.ru/devices) и укажите `Device Auth Key` для авторизации.
 - В разделе "Devices" есть все доступные устройства, подключенные по `Device Auth Key`.
 - Включите функцию `Exit Node` (превращает выбранное устройство в домашней сети или на удаленном сервере в персональный VPN-шлюз) на устройстве, к которому вы подключаетесь.
+
+## FAQ
+
+- Если подключение по ключу `Device Auth Key` выдает ошибку, можно выпустить новый через [remote-keys](https://remote.routerich.ru/keys).
 
 ## Materials
 
