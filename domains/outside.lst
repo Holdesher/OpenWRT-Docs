@@ -1,6 +1,10 @@
 claude.ai
 claude.com
 anthropic.com
+cdn.anthropic.com
+docs.anthropic.com
+support.anthropic.com
+status.anthropic.com
 intercom.io
 downloads.intercomcdn.com
 anthropic.qualtrics.com
@@ -13,10 +17,17 @@ chat.com
 ai.com
 chat.openai.com.cdn.cloudflare.net
 production-openaicom-storage.azureedge.net
+platform.openai.com
+api.openai.com
+cdn.openai.com
+status.openai.com
 
 x.ai
+api.x.ai
 grok.com
 grok.x.com
+docs.x.ai
+console.x.ai
 
 elevenlabs.io
 lightning.ai
@@ -29,10 +40,8 @@ sora.com
 hume.ai
 sonara.ai
 manus.im
-files.manus.cdn
 codeium.com
 kaleido.ai
-ai-chat.bsg.brave.com
 blinkshot.io
 langdock.com
 augmentcode.com
@@ -54,7 +63,6 @@ perplexity.ai
 perplexity.com
 
 clients6.google.com
-deepmind.com
 deepmind.google
 ai.google.dev
 generativeai.google
@@ -80,7 +88,19 @@ firebaseinstallations.googleapis.com
 speechs3proto2-pa.googleapis.com
 robinfrontend-pa.googleapis.com
 aida.googleapis.com
+www.googleapis.com
+translate.googleapis.com
 stitch.withgoogle.com
+fonts.googleapis.com
+fonts.gstatic.com
+storage.googleapis.com
+cloud.google.com
+firebase.google.com
+developers.google.com
+docs.google.com
+drive.google.com
+meet.google.com
+play.google.com
 
 copilot.microsoft.com
 designer.microsoft.com
@@ -90,6 +110,7 @@ github.com
 github.io
 github.dev
 githubusercontent.com
+github.net
 githubassets.com
 githubcopilot.com
 github.blog
@@ -103,6 +124,11 @@ education.github.com
 classroom.github.com
 gist.github.com
 gist.githubusercontent.com
+avatars.githubusercontent.com
+codeload.github.com
+pages.github.com
+uploads.github.com
+support.github.com
 
 gitlab.com
 gitlab.io
@@ -119,6 +145,8 @@ stackexchange.com
 sstatic.net
 
 npmjs.com
+docs.npmjs.com
+status.npmjs.org
 unpkg.com
 pypi.org
 python.org
@@ -126,6 +154,7 @@ docker.com
 docker.io
 registry-1.docker.io
 hub.docker.com
+docs.docker.com
 dockerhub.com
 vercel.com
 vercel.app
