@@ -19,7 +19,8 @@
 
 - [Inside](domains/inside.lst)
 - [Outside](domains/outside.lst)
-- [Addons](https://github.com/itdoginfo/allow-domains)
+- [IP-Address](https://github.com/RockBlack-VPN/ip-address)
+- [Allow-Domains](https://github.com/itdoginfo/allow-domains)
 
 ## Fixed
 
