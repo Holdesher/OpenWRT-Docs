@@ -1,9 +1,15 @@
 # OpenWRT-Docs
 
+## Info
+
+- Firmware: `3.10.3`
+- OpenWRT: `24.10.6`
+
 ## Docs
 
 - [Amnezia](docs/amnezia.md)
 - [Podkop](docs/podkop.md)
+- [Zapret](docs/zapret.md)
 - [ZeroBlock](docs/zeroblock.md)
 - [Tailscale](docs/tailscale.md)
 - [VLAN](docs/vlan.md)

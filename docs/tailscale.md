@@ -32,7 +32,8 @@ sudo tailscale up --login-server https://rc.routerich.ru # Linux
 - Перейдите в "Система" -> "Пакеты".
 - Нажмите "Обновить список".
 - Введите в фильтр `tailscale`.
-- Обновите/установите пакеты: `luci-i18n-tailscale` и `luci-i18n-tailscale-ru`.
+- Обновите/установите пакеты: `tailscale-lite`, `luci-i18n-tailscale` и `luci-i18n-tailscale-ru`.
+- Пакет `tailscale` ставить не нужно, так как используется `tailscale-lite` версия.
 - Перейдите в "VPN" -> "Tailscale" -> "Основные настройки":
   - Включите параметр "Включить".
   - Укажите `https://rc.routerich.ru/` в поле "Адрес сервера".
