@@ -2,8 +2,8 @@
 
 ## Info
 
-- Firmware: `3.10.3`
 - OpenWRT: `24.10.6`
+- Firmware: `3.10.3`
 
 ## Docs
 
@@ -19,6 +19,7 @@
 
 - [Inside](domains/inside.lst)
 - [Outside](domains/outside.lst)
+- [Exception](domains/exception.json)
 - [IP-Address](https://github.com/RockBlack-VPN/ip-address)
 - [Allow-Domains](https://github.com/itdoginfo/allow-domains)
 
