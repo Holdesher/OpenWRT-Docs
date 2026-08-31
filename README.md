@@ -15,18 +15,26 @@
 - [VLAN](docs/vlan.md)
 - [FAQ](docs/faq.md)
 
-## Domains
-
-- [Inside](domains/inside.lst)
-- [Outside](domains/outside.lst)
-- [Exception](domains/exception.json)
-- [IP-Address](https://github.com/RockBlack-VPN/ip-address)
-- [Allow-Domains](https://github.com/itdoginfo/allow-domains)
-
 ## Fixed
 
 - [Package](fixed/package.md)
 - [Amnezia-RX](fixed/amnezia-rx.md)
+
+## Domains
+
+- [Inside](domains/inside.lst)
+- [Outside](domains/outside.lst)
+- [IP-Address](https://github.com/RockBlack-VPN/ip-address)
+- [Allow-Domains](https://github.com/itdoginfo/allow-domains)
+
+## Community
+
+- [Discord](community/discord.lst)
+- [YouTube](community/youtube.lst)
+
+## Config 
+
+- [Exception](config/exception.json)
 
 ## Materials
 
